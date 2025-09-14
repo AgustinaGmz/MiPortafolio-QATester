@@ -1,15 +1,15 @@
 # MiPortafolio-QATester
-Portafolio de QA Manual y Automation con proyectos de E-commerce y App Bancaria. Contiene test cases, bug reports, API testing y scripts con Selenium + Java.
 ¡Bienvenido a mi portafolio!  
 Aquí muestro mi recorrido como **Tester de Software (QA Manual y Automation)**  
+Contiene test cases, bug reports, API testing y scripts con Selenium + Java.
 Mi objetivo es aportar valor en proyectos de calidad de software, integrando mis conocimientos técnicos en programación y pruebas.
 
 ---
 
 ## 📌 Sobre mí
-- QA Manual y en formación de Automation (Selenium + Java).  
-- 2 años de experiencia freelance en desarrollo web (HTML, CSS, JavaScript, WordPress).  
-- Manejo de SQL para validación de datos.  
+- QA Manual con 2 años de experiencia trabajando en sitios freelancer: utest, upwork, freelancer y fiver. 
+- Testing Automation en formación (Selenium + Java)
+- Manejo de SQL para validación de datos y APIS.  
 - Experiencia usando **JIRA** para gestión de incidencias.  
 - Enfocada en asegurar la calidad y experiencia de usuario final.  
 
